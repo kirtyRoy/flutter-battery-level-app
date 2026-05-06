@@ -1,17 +1,41 @@
-# batterylevel
+# Flutter Battery Level App
 
-A new Flutter project.
+## 📱 Group Information
+**Group Number:** X  
 
-## Getting Started
+**Members:**
+- Name 1
+- Name 2
+- Name 3
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## 📖 Project Description
+This project is a Flutter application that connects to a mobile device and displays the battery level.
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## ⚙️ Technologies Used
+- Flutter
+- Dart
+- Android Device (USB Debugging)
+
+---
+
+## 🚀 How to Run
+1. Connect Android device via USB
+2. Enable USB Debugging
+3. Run:
+   flutter run
+
+---
+
+## 📸 Screenshots
+(Add screenshots here)
+
+---
+
+## ✅ Features
+- Connects real device
+- Displays battery level
+- Simple UI
